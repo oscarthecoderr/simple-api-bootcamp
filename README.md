@@ -2,7 +2,7 @@
 
 ### Goal: Display data returned from an api
 
-### How to submit your code for review:
+<img width="1595" alt="Screen Shot 2022-10-29 at 1 08 29 AM" src="https://user-images.githubusercontent.com/113155959/198815097-2638cbac-6095-4886-a1cf-89bd5993eeed.png">
 
 - Fork and clone this repo
 - Create a new branch called answer
